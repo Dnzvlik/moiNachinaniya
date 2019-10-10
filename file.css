@@ -1,0 +1,67 @@
+#lside {
+    position: absolute;
+    left:0%;
+    top:0%;
+    width:10%;
+    background-color: aquamarine;
+    height:100%;
+}
+#rside {
+    position: absolute;
+    right:0%;
+    top:0%;
+    width:10%;
+    background-color: aquamarine;
+    height:100%;
+}
+.tops{
+    position: absolute;
+    top:0%;
+    width:14%;
+    height:5%;
+    text-align: center;
+} 
+#top1{
+    position: absolute;
+    left:10%;
+}
+#top2{
+    position: absolute;
+    left:24%;
+    text-align: left;
+}
+#top3{
+    position: absolute;
+    left:38%;
+}
+#top4{
+    position: absolute;
+    left:50%;
+}
+#top5{
+    position: absolute;
+    left:63%;
+}
+#top6{
+    position: absolute;
+    left:76%;
+}
+.text{
+    font-size: 20px;
+}
+.line{
+    width: 80%;
+    position: absolute;
+    left: 10%;
+}
+#topline{
+    position: absolute;
+    top:5%;
+}
+#picp{
+    position: absolute;
+    top: 10%;
+    left:10%;
+    width: 20%;
+    height: 30%;
+}
