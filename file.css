@@ -66,7 +66,7 @@
 #pictext{
     width: 16%;
     position: absolute;
-    top:45%;
+    top:47%;
     left:10%;
     text-align:center;
 }
@@ -82,39 +82,39 @@
 }
 #ptext2{
     position: absolute;
-    top:20%;
+    top:25%;
 }
 #ptext3{
     position: absolute;
-    top:30%;
+    top:35%;
 }
 #ptext4{
     position: absolute;
-    top:40%;
+    top:45%;
 }
 #ptext5{
     position: absolute;
-    top:50%;
+    top:58%;
 }
 #ptext6{
     position: absolute;
-    top:60%;
+    top:65%;
 }
 #ptext7{
     position: absolute;
-    top:70%;
+    top:78%;
 }
 #ptext8{
     position: absolute;
-    top:80%;
+    top:88%;
 }
 #footline{
     position:absolute;
-    top:90%;
+    top:95%;
 }
 #foottext{
     position: absolute;
-    top:95%;
+    top:100%;
     width: 100%;
     text-align: center;
 }
