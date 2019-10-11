@@ -65,3 +65,9 @@
     width: 20%;
     height: 30%;
 }
+#pictext{
+    position: absolute;
+    top:40%;
+    left:10%;
+    text-align:center;
+}
